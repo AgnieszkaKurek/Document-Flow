@@ -6,7 +6,8 @@ body {
 }
 
 h1 {
-    font-weight: normal;   
+    font-weight: normal;  
+   
 }
 
 em {
@@ -17,5 +18,9 @@ em {
 a {
     color: rgb(137, 161, 163);
     background: rgba(198, 197, 197, 0.33);
+    margin-top:  100px;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-bottom: 200px;
 }
 
