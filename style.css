@@ -2,26 +2,20 @@
 body {
     background-color: rgb(31, 31, 31);
     color: rgb(191, 191, 191);
+    padding: 30px;
 }
 
-h1, h2, h3, h4, h5, h6 { 
-    background: rgba(50, 96, 168, 0.47);
+h1 {
+    font-weight: normal;   
 }
 
 em {
-    color: rgb(224, 122, 5);
-}
-
-p {
-    background: rgba(73, 129, 129, 0.46); 
-    
+    color: rgb(224, 122, 5);   
+    background: rgba(224, 224, 224, 0.26);
 }
 
 a {
-    color: rgb(118, 167, 125); 
-    background: rgba(20, 79, 149, 0.46);
-}
-h1{
-    margin: 100px;
+    color: rgb(137, 161, 163);
+    background: rgba(198, 197, 197, 0.33);
 }
 
